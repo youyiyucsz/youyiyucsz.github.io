@@ -1,4 +1,4 @@
-###王超逸卒了
+### 王超逸卒了
 ```cpp
   #include<iostream>
   #define w int main{
@@ -9,7 +9,7 @@
   using namespace std;
   wcyzl
 ```
-###kmp
+### kmp
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -67,4 +67,5 @@ int main()
 	cout<<ans;
 }
 ```
- 
+# 座位号
+~ JS-00105	陈思哲	江苏省锡山高级中学	41
